@@ -1,0 +1,68 @@
+* { padding: 0; margin: 0; }
+
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  
+}
+
+/* Center align the text within the three columns below the carousel */
+.marketing{
+  
+}
+
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+.jumbotron{
+   width:100%;
+   min-height:400px;
+   background:url(lofty.jpg) 0 -80px;
+   background-attachment:fixed;
+   
+   
+}
+.display-3{
+   margin-top:70px;
+   color:#ffffff;
+   font-size:46px;
+   font-family:Arial, Helvetica, sans-serif;
+}
+.lofty{
+   margin-bottom:20px;
+
+}
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+

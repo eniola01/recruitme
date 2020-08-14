@@ -1,0 +1,83 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: lightgrey;
+}
+
+
+/*header*/
+.header{
+	background-color: white;
+	padding: 10px 60px;
+}
+.maniput{
+	border: 1px solid black;
+	border-radius: 4px;
+	padding: 10px;
+}
+#maniput{
+	border: none;
+	width: 400px;
+}
+#maniput:focus{
+	outline: none;
+}
+ul>li{
+	display: inline;
+	text-decoration: none;
+	padding: 5px;
+}
+nav{
+	padding: 17px;
+	position: absolute;
+	margin-top: -59px;
+	margin-left: 400px;
+}
+/*end of header*/
+
+
+
+/*footer*/
+.footergrid{
+	background-color: black;
+	color: white;
+	display: grid;
+	grid-template-columns: 1fr 2fr 1fr;
+	padding: 10px 55px;
+	grid-gap: 100px;
+}
+.d-text{
+display: inline-block;
+font-size: 12px;
+}
+.footergrid2a1{
+	border: 1px solid white;
+	border-radius: 4px;
+	padding: 8px 4px;
+}
+#maniput2{
+	border: none;
+	background-color: black;
+}
+#maniput2:focus{
+	outline: none;
+}
+.footergrid2a2{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+    grid-gap: 7px;
+}
+#footergrid2a2{
+	border: 1px solid white;
+	padding: 8px 4px;
+    text-align: center;
+}
+.footergrid2a{
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-gap: 15px;
+}
+
+/*end of footer*/

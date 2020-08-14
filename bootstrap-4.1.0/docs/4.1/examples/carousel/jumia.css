@@ -1,0 +1,143 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: lightgrey;
+	overflow-x: hidden;
+}
+
+
+/*header*/
+.header{
+	background-color: white;
+	padding: 10px 60px;
+}
+.maniput{
+	border: 1px solid black;
+	border-radius: 4px;
+	padding: 10px;
+}
+#maniput{
+	border: none;
+	width: 400px;
+}
+#maniput:focus{
+	outline: none;
+}
+.first >li{
+	display: inline;
+	text-decoration: none;
+	padding: 5px;
+}
+nav{
+	padding: 17px;
+	position: absolute;
+	margin-top: -59px;
+	margin-left: 400px;
+}
+
+/*end of header*/
+
+.grid{
+	display: grid;
+	grid-template-rows: 1fr 1fr;
+	grid-gap: 2px;
+}
+.d-text2{
+	display: inline-block;
+}
+.grid2{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-gap: 2px;
+}
+.asidegrid{
+	display: grid;
+	grid-gap: 35px;
+	grid-template-rows: 1fr 1fr;
+}
+.ten{
+	background-color: orange;
+	border-radius: 5px;
+	width: 25%;
+	text-align: center;
+	margin-left: 82%;
+	margin-top: 5%;
+}
+.list >li{
+	display: inline;
+	padding-right: 11%;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	margin-left: 30px;
+}
+.section{
+	display: grid;
+	grid-template-columns: 1fr 3fr 1fr;
+	grid-gap: 30px;
+}
+
+/*footer*/
+.footergrid{
+	color: white;
+	display: grid;
+	grid-template-columns: 1fr 2fr 1fr;
+	padding: 10px 0px;
+	grid-gap: 12%;
+}
+.d-text{
+	display: inline-block;
+	font-size: 12px;
+}
+.footergrid2a1{
+	border: 1px solid white;
+	border-radius: 4px;
+	padding: 8px 4px;
+}
+footer{
+	background-color: black;
+	font-weight: lighter;
+}
+#maniput2{
+	border: none;
+	background-color: black;
+}
+#maniput2:focus{
+	outline: none;
+}
+.footergrid2a2{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+    grid-gap: 7px;
+}
+#footergrid2a2{
+	border: 1px solid white;
+	padding: 8px 4px;
+    text-align: center;
+    border-radius: 4px;
+}
+.footergrid2a{
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-gap: 15px;
+}
+#footergridB1d{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.footergridB{
+	background-color: #323232;
+	color: white;
+}
+.footergridB1{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 4%;
+}
+.footergridB2{
+	display: grid;
+	grid-template-columns: 1fr 1fr 2fr;
+	grid-gap: 4%; 
+}
+/*end of footer*/

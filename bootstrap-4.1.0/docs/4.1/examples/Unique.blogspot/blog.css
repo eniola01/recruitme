@@ -1,0 +1,127 @@
+*{padding:0; 
+  margin:0;}
+  .container{
+	       Width:100%;
+		   overflow:hidden;
+		}
+#design{color:#33ccff;
+	   padding-left:230px;
+	   padding-top:
+       }
+header{min-height:10px;
+	background:#00ffff;
+	position:fixed;
+	width:100%;
+	text-align:center;
+	padding-top:10px;
+      }
+ #mg img{width:100%;
+ 	height:150px;
+ 	position:fixed;
+ 	padding-top:30px;
+             }
+ #img img{height:40px;
+         width:250px;}
+body{ background:url(photodune-7827998-web-design-development-concept-m.jpg);
+}
+
+#unique{
+	color:#707070;
+       text-align:center;
+       font-family:chiller;
+       font-size:33px;
+       padding-top:210px;
+       }
+#web{
+	background-color:#33ccff;
+	       height:40px;
+	       width:25%;
+	font-family:Vijaya;
+	font-size:22px;
+	text-align:center;
+	}
+form {float:right;
+       padding-top:25px;
+	   }
+form input{width:100px;
+           min-height:25px;
+             padding:4px;
+          }
+#gm{color:blue;}
+.p{float:left;
+    padding-right:199px;}
+
+       }
+#form{background:white;
+    width:250px;
+    height:400px;
+    float:right;
+	    }
+#form h2{color:grey;}
+.table{padding-top:175px;}
+nav #p{float:left;}
+button {
+    background-color: #48d1cc;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #4682b4;
+}
+
+#container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* The Modal (background) */
+
+.software{
+   display: none;
+   position: fixed;
+   z-index: 1;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+   overflow: auto;
+   background-color: rgb(0,0,0);
+   background-color: rgba(0,0,0,0.4);
+}
+
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button (x) */
+
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    cursor: pointer;
+}

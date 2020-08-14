@@ -1,0 +1,95 @@
+body{
+	overflow-x: hidden;
+}
+.nav{
+	font-size: 70%;
+}
+header{
+	color: white;
+	padding: 20px 120px;
+	background-color: #46639e;
+	margin: 0;
+}
+.inputh{
+	width: 100%;
+}
+#facebook{
+	font-size: 2em;
+	font-weight: bolder;
+}
+#login{
+	background-color: #4267b2;
+	color: white;
+	border: 1px solid #29487d;
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+.fpass{
+	color: #9cb4d8;
+}
+main{
+	background:linear-gradient(rgb(255, 255, 255), rgb(211, 216, 232));
+	padding: 30px 120px;
+}
+.main1{
+	font-size: 1.3em;
+	font-weight: bolder;
+}
+#create{
+	display: block;
+	font-size: 2em;
+	font-weight: bolder;
+	margin-top:-15px; 
+}
+#quick{
+	display: block;
+	font-size: 1.3em;
+}
+.inputf{
+	width: 100%;
+	border-radius: 5px;
+	padding: 8px;
+	margin-bottom: 10px;
+	border-style: none;
+	border: 1px solid #bdc7d8;
+
+}
+#qmark{
+	color: #d6dae3;
+	background-color: #606770;
+	border-radius: 50%;
+	padding: 0.1px 4px;
+	margin-left: 8px;
+}
+select{
+	margin-right: -4px;
+}
+.radio{
+	margin-right: 5px;
+}
+.rleft{
+	margin-left: 20px;
+}
+.note{
+	font-size: 69%;
+	margin-right: 10%;
+}
+.blue{
+	color: #385898;
+}
+.blue:hover{
+	text-decoration: underline;
+}
+#signup{
+	background-color: #5c9449;
+	padding: 5px 30px;
+	border-radius: 5px;
+	color: white;
+}
+footer{
+	padding: 60px;
+}
+.f2{
+	font-size: 80%;
+
+}

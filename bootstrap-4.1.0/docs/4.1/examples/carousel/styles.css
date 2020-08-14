@@ -1,0 +1,94 @@
+* { padding: 0; margin: 0; }
+
+body {
+background-color: #CCCCCC;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+background: url(images/coffee.png) repeat;
+}
+
+.container{
+width:80%;
+margin:auto;
+overflow:hidden;
+}
+
+.button_1{
+margin-left: 5px;
+background-color:#0000CC;
+color:#FFFFFF;
+width: 270px;
+height: 30px;
+border:0;
+border-radius: 30px;
+}
+
+.button_1:hover{
+background-color:#ffffff;
+color:#0000CC;
+}
+
+
+section { 
+
+ color:#000;
+ }
+
+
+#boxe{ 
+ margin-top: 100px;
+ margin-bottom: 100px;
+ }
+
+#boxe h3{ 
+ padding-left: 100px;
+  }
+
+
+#boxe{ 
+ width:50%;
+ float: left;
+}
+
+#box{ 
+ width:30%;
+ padding: 5px;
+ float:left;
+ text-align:center;
+}
+
+#boxes{ 
+ width:20%;
+ padding: 10px;
+ float:left;
+ text-align:center;
+}
+
+#boxe img{ 
+ width:90px;
+ padding-left: 100px;
+}
+
+
+.button1:hover{
+background:#ffffff;
+color:#0000CC;
+}
+
+#boxe form label{ 
+  text-align: left;
+}
+
+
+#boxe form input{ 
+height:15px;
+ width: 250px;
+ padding:6px;
+ border-bottom: 2px #000 solid;
+ margin-bottom:10px;
+ }
+
+ #boxe form p{ 
+   padding-left: 170px;
+
+ }

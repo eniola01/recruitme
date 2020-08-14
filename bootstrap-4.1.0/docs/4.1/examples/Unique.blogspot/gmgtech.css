@@ -1,0 +1,22 @@
+*{padding:0; 
+  margin:0;}
+  .container{
+	       Width:100%;
+		   overflow:hidden;
+		}
+#design{color:#33ccff;
+	   padding-left:230px;
+	   padding-top:
+       }
+header{min-height:30px;
+	background:url(web-design-banner.png)-600px;
+    border-bottom:#e8491d 4px solid;
+	font-family:Vijaya;
+	float:left;
+	padding-top:25px;
+	font-size:35px;
+	position:fixed;
+	width:100%;}
+#search input{height:15px;
+	       width:10px;
+}

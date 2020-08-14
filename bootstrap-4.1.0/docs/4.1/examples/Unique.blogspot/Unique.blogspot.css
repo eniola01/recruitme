@@ -1,0 +1,123 @@
+*{padding:0; 
+  margin:0;}
+  .container{
+	       Width:100%;
+		   overflow:hidden;
+		}
+#design{color:#33ccff;
+	   padding-left:230px;
+	   padding-top:
+       }
+header{height:50px;
+	background:url(web-design-banner.png)-600px;
+    border-bottom:#e8491d 4px solid;
+	font-family:Vijaya;
+	float:left;
+	padding-top:25px;
+	font-size:35px;
+	position:fixed;
+	width:100%;
+	margin-bottom:70px;
+      }
+body{ background:url(photodune-7827998-web-design-development-concept-m.jpg);
+}
+#nav{padding-top:80px;
+	color:#ffffff;
+		min-height:20px; 
+	text-align:center; 
+	background:#707070;
+	width:100%;
+	}
+#unique{
+	color:#707070;
+       text-align:center;
+       font-family:Harlow Solid Italic;
+       font-size:33px;
+       }
+#web{
+	background-color:#b0e0e6;
+	       height:30px;
+	       width:30%;
+	font-family:Vijaya;
+	font-size:22px;
+	text-align:center;
+	}
+form input{width:100px;
+           min-height:25px;
+          }
+#gm{color:blue;
+     padding:-10px;}
+#searc button{background:#ffffff;
+               width:10px;
+
+       }
+#form h4{color:grey;
+	   text-decoration:underline;
+	   font-family:Lucida Handwriting;
+      }
+#form p{padding-top:100px;}
+nav #train{color:white;}
+
+form input{
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+#search input{height:8px;
+	       width:10%;
+}
+ #java button {
+    background-color: #48d1cc;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+.cancelbtn {
+    width: auto;
+    background-color: #4682b4;
+}
+
+span.psw {
+    float:right;
+}
+
+.software{
+   display: none;
+   position: fixed;
+   z-index: 1;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 80%;
+   overflow: auto;
+   background-color: rgb(0,0,0);
+   background-color: rgba(0,0,0,0.4);
+}
+
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    cursor: pointer;
+}
